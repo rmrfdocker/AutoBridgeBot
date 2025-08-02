@@ -1,0 +1,14 @@
+{
+  "name": "auto-tor-bridge-bot",
+  "version": "1.0.0",
+  "description": "Auto Tor Bridge bot @AutoTorBridgeBot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "telegraf": "^4.16.3",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

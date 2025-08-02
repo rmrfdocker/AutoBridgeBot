@@ -424,6 +424,15 @@
       "addedAt": "2025-08-01T23:12:26.578Z"
     },
     {
+      "bridge": "obfs4 185.177.207.110:12346 A57C722EF3197E0C85D03D7651BFF5D62F75B894 cert=p9L6+25s8bnfkye1ZxFeAE4mAGY7DH4Gaj7dxngIIzP9BtqrHHwZXdjMK0RVIQ34C7aqZw iat-mode=2",
+      "ip": "185.177.207.110",
+      "port": "12346",
+      "fingerprint": "A57C722EF3197E0C85D03D7651BFF5D62F75B894",
+      "cert": "p9L6+25s8bnfkye1ZxFeAE4mAGY7DH4Gaj7dxngIIzP9BtqrHHwZXdjMK0RVIQ34C7aqZw",
+      "iat-mode": "2",
+      "addedAt": "2025-08-02T08:19:36.690Z"
+    },
+    {
       "bridge": "obfs4 185.177.207.13:22662 928C1E4289A01F34C8FB423FC32C0E77EE0F8736 cert=p9L6+25s8bnfkye1ZxFeAE4mAGY7DH4Gaj7dxngIIzP9BtqrHHwZXdjMK0RVIQ34C7aqZw iat-mode=2",
       "ip": "185.177.207.13",
       "port": "22662",

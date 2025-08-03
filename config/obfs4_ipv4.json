@@ -514,6 +514,15 @@
       "addedAt": "2025-08-01T21:58:56.377Z"
     },
     {
+      "bridge": "obfs4 185.177.207.216:11216 E71628480D83354D3AC73BC4F1B1684F1E7BC57B cert=YJm9yg+8IrX+RSUdXcLDc1gCM6IikHhOSuEGLIB/Gc2w5ANMrXU1PVcRKPz816uphwn4Zw iat-mode=1",
+      "ip": "185.177.207.216",
+      "port": "11216",
+      "fingerprint": "E71628480D83354D3AC73BC4F1B1684F1E7BC57B",
+      "cert": "YJm9yg+8IrX+RSUdXcLDc1gCM6IikHhOSuEGLIB/Gc2w5ANMrXU1PVcRKPz816uphwn4Zw",
+      "iat-mode": "1",
+      "addedAt": "2025-08-03T13:51:37.129Z"
+    },
+    {
       "bridge": "obfs4 185.177.207.218:11218 951F1D53D204FC810BBB53E22A43B9A3EF908026 cert=5s8xwixGaPWhQjzifnXw3upQmyKSTvUfjrHE9Qkua7Hpxf26V19eiL9BeibI/3G+/1UyPA iat-mode=0",
       "ip": "185.177.207.218",
       "port": "11218",
@@ -701,6 +710,15 @@
       "cert": "DEvknXT0msOo2buXWfkRMCzQeOWZggjWhDXhU4FRt9qfGssb6n5nbVpGC1w8PN701qONDw",
       "iat-mode": "0",
       "addedAt": "2025-08-01T21:58:56.378Z"
+    },
+    {
+      "bridge": "obfs4 193.57.136.119:443 922FC5AF7C91143E6B8FA3420F732FC63374A32B cert=pBkF+6bD/GVe2hmYc/gp0wH7hnLFWLU8OJJLI2AxNNZTl6xPnrii5fZ/ebX8jsgS88gBbQ iat-mode=0",
+      "ip": "193.57.136.119",
+      "port": "443",
+      "fingerprint": "922FC5AF7C91143E6B8FA3420F732FC63374A32B",
+      "cert": "pBkF+6bD/GVe2hmYc/gp0wH7hnLFWLU8OJJLI2AxNNZTl6xPnrii5fZ/ebX8jsgS88gBbQ",
+      "iat-mode": "0",
+      "addedAt": "2025-08-03T13:51:37.131Z"
     },
     {
       "bridge": "obfs4 194.164.161.57:34182 E2D9A6819DF983B4FC138601399249E33E7CCE31 cert=OH2TOTA/EtDOEaKEMD1gAcDEKMOQwH+ZhxSVfa98b0yybvGCg5Eo5tYnhNk0CWWeLBctFQ iat-mode=0",

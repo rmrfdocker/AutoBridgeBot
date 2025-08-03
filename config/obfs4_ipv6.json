@@ -721,6 +721,15 @@
       "addedAt": "2025-08-01T21:58:56.381Z"
     },
     {
+      "bridge": "obfs4 [2a0a:4587:2012::218]:11218 951F1D53D204FC810BBB53E22A43B9A3EF908026 cert=5s8xwixGaPWhQjzifnXw3upQmyKSTvUfjrHE9Qkua7Hpxf26V19eiL9BeibI/3G+/1UyPA iat-mode=0",
+      "ip": "2a0a:4587:2012::218",
+      "port": "11218",
+      "fingerprint": "951F1D53D204FC810BBB53E22A43B9A3EF908026",
+      "cert": "5s8xwixGaPWhQjzifnXw3upQmyKSTvUfjrHE9Qkua7Hpxf26V19eiL9BeibI/3G+/1UyPA",
+      "iat-mode": "0",
+      "addedAt": "2025-08-03T13:51:37.132Z"
+    },
+    {
       "bridge": "obfs4 [2a0a:4587:2012:1::233]:11233 B8DFC8F455000A5C6C740175A6604642CB50A83D cert=cYWJY9X7MunIDSWpdhKEW/cRCX6rtZbVp2YqLf+4Vht3epd66bKBetJ7gnN6QjfqO6LPEg iat-mode=0",
       "ip": "2a0a:4587:2012:1::233",
       "port": "11233",

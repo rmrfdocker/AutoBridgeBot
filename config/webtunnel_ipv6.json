@@ -676,6 +676,15 @@
       "addedAt": "2025-08-01T22:04:54.966Z"
     },
     {
+      "bridge": "webtunnel [2001:db8:d3e0:e4e:ea8c:f13c:4b74:6c15]:443 ECE165E6510C15D4EA814D32B17D6A2E4A56938A url=https://cdn-46.triplebit.dev/beaXo6cho1eil2ai ver=0.0.2",
+      "ip": "2001:db8:d3e0:e4e:ea8c:f13c:4b74:6c15",
+      "port": "443",
+      "fingerprint": "ECE165E6510C15D4EA814D32B17D6A2E4A56938A",
+      "url": "https://cdn-46.triplebit.dev/beaXo6cho1eil2ai",
+      "ver": "0.0.2",
+      "addedAt": "2025-08-04T04:36:03.537Z"
+    },
+    {
       "bridge": "webtunnel [2001:db8:d6b7:10ae:b5cf:811a:7f22:4596]:443 63BAB47B6DB9CA74AAC004E803F02E6E8D425E48 url=https://wt.skynetcloud.site/GtMuw9ifqfu3AAap4GVHHnBx ver=0.0.2",
       "ip": "2001:db8:d6b7:10ae:b5cf:811a:7f22:4596",
       "port": "443",

@@ -307,6 +307,15 @@
       "addedAt": "2025-08-01T22:04:54.966Z"
     },
     {
+      "bridge": "webtunnel [2001:db8:7470:8ef4:8b7f:2051:9c5d:5f5c]:443 43C74D321B92879B671F355B0F98AFECFB6B6186 url=https://jochenkessler.de/RKQFDaAZZXnjyFBXVbbTAz0K ver=0.0.2",
+      "ip": "2001:db8:7470:8ef4:8b7f:2051:9c5d:5f5c",
+      "port": "443",
+      "fingerprint": "43C74D321B92879B671F355B0F98AFECFB6B6186",
+      "url": "https://jochenkessler.de/RKQFDaAZZXnjyFBXVbbTAz0K",
+      "ver": "0.0.2",
+      "addedAt": "2025-08-06T04:02:04.326Z"
+    },
+    {
       "bridge": "webtunnel [2001:db8:75db:c6f2:1dae:121:7a04:9e9d]:443 4B673DF159CFC12AC91FC2E6AC3047FF2183FCEA url=http://freifunk.ckgc.de/xBKEzZunnc3A5pcf6jaeVyPL ver=0.0.1",
       "ip": "2001:db8:75db:c6f2:1dae:121:7a04:9e9d",
       "port": "443",
@@ -575,6 +584,15 @@
       "url": "https://tox02.ky0uraku.xyz/oRvjLEFZwsFook1LeWIh2KLqrBbe",
       "ver": "0.0.1",
       "addedAt": "2025-08-01T22:04:54.966Z"
+    },
+    {
+      "bridge": "webtunnel [2001:db8:b655:ecbd:ddf5:b5fd:6b46:283d]:443 8BDAA4F662310875C87D63E4A4E98D887D11FAA5 url=https://jokester.cloud/2wZ0XqGbIavDahG9af5RCs7D ver=0.0.2",
+      "ip": "2001:db8:b655:ecbd:ddf5:b5fd:6b46:283d",
+      "port": "443",
+      "fingerprint": "8BDAA4F662310875C87D63E4A4E98D887D11FAA5",
+      "url": "https://jokester.cloud/2wZ0XqGbIavDahG9af5RCs7D",
+      "ver": "0.0.2",
+      "addedAt": "2025-08-06T04:02:04.325Z"
     },
     {
       "bridge": "webtunnel [2001:db8:ba30:5074:c2e6:663:42e8:de84]:443 6C3C97ECF9D5984838CCFA4774C25E281E87E9D6 url=https://dns.rawbit.ninja/jbsEXCoUvbZLbd3taETimEfM ver=0.0.2",

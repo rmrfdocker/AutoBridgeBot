@@ -1585,6 +1585,15 @@
       "addedAt": "2025-08-01T21:58:56.379Z"
     },
     {
+      "bridge": "obfs4 92.63.169.52:4444 6E51423BA6693C627F12CBA99951B05123CBFE76 cert=5oKmfPAkMsbPYqILxgjMRswPJXwaw/sT4OQjaSeo7zqI/hSsnlEY+zInvkzCJY8z3N7WSw iat-mode=0",
+      "ip": "92.63.169.52",
+      "port": "4444",
+      "fingerprint": "6E51423BA6693C627F12CBA99951B05123CBFE76",
+      "cert": "5oKmfPAkMsbPYqILxgjMRswPJXwaw/sT4OQjaSeo7zqI/hSsnlEY+zInvkzCJY8z3N7WSw",
+      "iat-mode": "0",
+      "addedAt": "2025-08-06T14:03:03.730Z"
+    },
+    {
       "bridge": "obfs4 93.202.145.5:6398 FFD51FDB0F1F585AE61A4EAF334797A5873235EF cert=RDTaREnXfEd4M0q7pESzeuZj+8JJ4d+iTQ9ASzNLLOUQpcelQk12Luf8pEVcWEZd8k0QZg iat-mode=0",
       "ip": "93.202.145.5",
       "port": "6398",

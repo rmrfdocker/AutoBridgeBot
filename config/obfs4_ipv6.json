@@ -127,6 +127,15 @@
       "addedAt": "2025-08-01T21:58:56.380Z"
     },
     {
+      "bridge": "obfs4 [2600:1013:1014:70a6:6626:a956:6801:fa06]:9100 B459082BB46581DCBF8CC5337588E7686EFF6A22 cert=dArCPwlm6iwetyRZzRWpae+Mb0gkPDlDF9SCpXI7QAllSbx7UsfUN5Qbli4sRt1N8RTPZA iat-mode=2",
+      "ip": "2600:1013:1014:70a6:6626:a956:6801:fa06",
+      "port": "9100",
+      "fingerprint": "B459082BB46581DCBF8CC5337588E7686EFF6A22",
+      "cert": "dArCPwlm6iwetyRZzRWpae+Mb0gkPDlDF9SCpXI7QAllSbx7UsfUN5Qbli4sRt1N8RTPZA",
+      "iat-mode": "2",
+      "addedAt": "2025-08-07T03:59:29.452Z"
+    },
+    {
       "bridge": "obfs4 [2600:3c05::f03c:91ff:fefb:423e]:8000 02E4E04C425EA273FE248E432758F8370101F1DB cert=j9N4ICLlx5Mj6xNi5yzqUcDvd4bOHu7fJ0F/Ev/7DlNK/MmC8pAgK7d2LLWpJ2SX/jyLYQ iat-mode=0",
       "ip": "2600:3c05::f03c:91ff:fefb:423e",
       "port": "8000",

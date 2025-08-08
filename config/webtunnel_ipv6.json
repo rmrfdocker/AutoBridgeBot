@@ -19,6 +19,15 @@
       "addedAt": "2025-08-01T22:04:54.965Z"
     },
     {
+      "bridge": "webtunnel [2001:db8:1218:1de7:3a91:22cc:8d7f:197c]:443 DF343521735ABE129910A998817B3A93AA2390FE url=https://coellen.xyz ver=0.0.1",
+      "ip": "2001:db8:1218:1de7:3a91:22cc:8d7f:197c",
+      "port": "443",
+      "fingerprint": "DF343521735ABE129910A998817B3A93AA2390FE",
+      "url": "https://coellen.xyz",
+      "ver": "0.0.1",
+      "addedAt": "2025-08-08T03:59:09.191Z"
+    },
+    {
       "bridge": "webtunnel [2001:db8:1d30:ff54:bba:de27:3861:ff8c]:443 93F50F39F559F2BC2D0C8F936239017AC85AA9BE url=https://rabbithole2.net/4kHLbQkqWJV0Jxfk28H5MySc ver=0.0.1",
       "ip": "2001:db8:1d30:ff54:bba:de27:3861:ff8c",
       "port": "443",
